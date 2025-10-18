@@ -7,3 +7,9 @@
 </details>
 
 <!--- mix-blend-mode: exclusion; ---!>
+
+
+HMOS new emoji
+
+
+<img width="18" height="18" alt="🫩" src="https://github.com/user-attachments/assets/7ed36d49-ee7e-4c0f-b550-5db51e2852c8" />
